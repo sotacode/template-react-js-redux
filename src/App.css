@@ -4,6 +4,10 @@
   padding: 2rem;
   text-align: center;
 }
+ul{
+  align-items: start;
+  text-align: left;
+}
 
 .logo {
   height: 6em;
